@@ -15,7 +15,7 @@ public class p25 {
 			}
 			int k=1;
 			while(k<=2*i-1) {
-				System.out.print(+ ++x+"    ");
+				System.out.print(++x+"    ");
 				k++;
 			}
 			i++;
